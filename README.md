@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Trabalho na área de Tecnologia da Informação desde os meus **15 anos de idade** e completo **40 anos** este mês! São **25 anos de jornada** dedicados a aprender, projetar e construir softwares robustos. 
+Trabalho na área de Tecnologia da Informação desde os meus **15 anos de idade**, acumulando **25 anos de jornada** dedicados a aprender, projetar e construir softwares robustos. 
 
 Hoje atuo como **Desenvolvedor FullStack e Engenheiro DevOps PCD**, combinando o desenvolvimento de sistemas escaláveis com a automação de infraestruturas nativas de nuvem. Minha filosofia de trabalho é baseada na aplicação rigorosa de práticas de **Clean Code**, padrões **SOLID** e arquiteturas robustas.
 
